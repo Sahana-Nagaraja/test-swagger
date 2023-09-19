@@ -1,0 +1,9 @@
+site_name: "test-swagger"
+site_description: "This is to test spring boot template"
+
+nav:
+  - Introduction: index.md
+  - Page 1: page1.md
+
+plugins:
+  - techdocs-core
